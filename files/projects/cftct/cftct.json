@@ -1,0 +1,1 @@
+{"name": "cftct", "pins": [{"pin_name": "echoPin", "power": "HIGH", "number": 7, "type": "digital"}, {"pin_name": "trigPin", "power": "HIGH", "number": 8, "type": "digital"}, {"pin_name": "led", "power": "HIGH", "number": "13", "type": "digital"}], "frequency": 200, "read_results": true, "results_num": 1}

@@ -1,0 +1,1 @@
+{"name": "Ldr", "pins": [{"pin_name": "sensorPin", "power": "HIGH", "number": "A0;", "type": "digital"}], "frequency": 1000, "read_results": true, "results_num": 3}

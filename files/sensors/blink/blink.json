@@ -1,0 +1,1 @@
+{"name": "blink", "pins": [{"pin_name": "led", "power": "HIGH", "number": "13", "type": "digital"}], "frequency": 1000, "read_results": false, "results_num": 0}

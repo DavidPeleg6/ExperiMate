@@ -1,0 +1,9 @@
+{"sensors_location": "sensors",
+  "port_COM": "7",
+  "stop_file": "stop_file",
+  "image": "project",
+  "default_power": "HIGH",
+  "default_frequency": 0.5,
+  "results": "results",
+  "arduino_compiler": "C:/Program Files (x86)/Arduino/arduino_debug",
+  "arduino_libraries":  "C:/Program Files (x86)/Arduino/libraries"}

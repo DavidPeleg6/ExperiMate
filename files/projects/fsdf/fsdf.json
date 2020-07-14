@@ -1,0 +1,1 @@
+{"name": "fsdf", "pins": [{"pin_name": "pin1", "power": "HIGH", "number": 8, "type": "digital"}, {"pin_name": "pin2", "power": "HIGH", "number": 9, "type": "digital"}, {"pin_name": "pin3", "power": "HIGH", "number": 10, "type": "digital"}, {"pin_name": "pin4", "power": "HIGH", "number": 11, "type": "digital"}], "frequency": 500, "read_results": false, "results_num": 0}

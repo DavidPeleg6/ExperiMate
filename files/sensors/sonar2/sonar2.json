@@ -1,0 +1,1 @@
+{"name": "sonar2", "pins": [{"pin_name": "echoPin", "power": "HIGH", "number": "7", "type": "digital"}, {"pin_name": "trigPin", "power": "HIGH", "number": "8", "type": "digital"}], "frequency": 1000, "read_results": true, "results_num": 1}
